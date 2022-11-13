@@ -8,6 +8,7 @@ import 'package:amazon_clone_tutorial/router.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+
 void main() {
   runApp(MultiProvider(providers: [
     ChangeNotifierProvider(
