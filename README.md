@@ -8,7 +8,7 @@
 - Product Details
 - Rating
 - Getting Deal of the Day
-- Cart
+- Add to Cart
 - Checking out with Google/Apple Pay
 - Viewing My Orders
 - Viewing Order Details & Status
