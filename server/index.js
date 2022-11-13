@@ -1,4 +1,4 @@
-// IMPORTS FROM PACKAGES
+// IMPORTS FROM PACKAGESs
 const express = require("express");
 const mongoose = require("mongoose");
 const adminRouter = require("./routes/admin");
