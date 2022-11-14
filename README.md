@@ -3,6 +3,7 @@
 ## Features
 - Email & Password Authentication
 - Persisting Auth State
+- Uploading Career Resources and Woman Empowerment Videos
 - Searching Products
 - Filtering Products (Based on Category)
 - Product Details
