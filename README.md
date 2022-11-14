@@ -4,6 +4,7 @@
 - Email & Password Authentication
 - Persisting Auth State
 - Uploading Career Resources and Woman Empowerment Videos
+- Creating, Reading, Updating and Deleting Blogs
 - Searching Products
 - Filtering Products (Based on Category)
 - Product Details
